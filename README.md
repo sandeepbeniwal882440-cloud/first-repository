@@ -1,3 +1,4 @@
-# first-repositorybasic things
-<br>
+# first-repository
 i am creating first repository 
+<br>
+Author- sandeep
